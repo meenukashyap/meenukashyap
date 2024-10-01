@@ -1,4 +1,5 @@
 Hi 👋, I'm Meenu( Full Stack DEVELOPER )
+<hr>
 I am looking for an opportunity to use my skills and abilities to make a positive 
       impact on an IT organization. I am a team player who is able to 
       work effectively in a fast-paced environment and committed to
