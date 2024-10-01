@@ -1,6 +1,16 @@
-- 👋 Hi, I’m meenu thakur
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning full stack web developement.
+Hi 👋, I'm Meenu( Full Stack DEVELOPER )
+I am looking for an opportunity to use my skills and abilities to make a positive 
+      impact on an IT organization. I am a team player who is able to 
+      work effectively in a fast-paced environment and committed to
+       continuous learning.<br>Drop a mail @ meenurehmat990@gmail.com</p>
+
+
+
+-👨‍💻 All of my projects are available at https://meenukashyap.github.io/
+
+-📄 Know about my experiences Resume
+
+-📧 Email - meenurehmat990@gmail.com
 
 <!---
 meenukashyap/meenukashyap is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
