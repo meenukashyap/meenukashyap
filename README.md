@@ -7,7 +7,7 @@ I am looking for an opportunity to use my skills and abilities to make a positiv
 
 
 
--👨‍💻 All of my projects are available at https://meenukashyap.github.io/
+-👨‍💻 All of my projects are available at https://github.com/meenukashyap
 
 -📄 Know about my experiences Resume
 
